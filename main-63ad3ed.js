@@ -1,7 +1,7 @@
 /*
   Copyright (c) 2021-2022 CarrotGeball and stackinspector. All rights reserved. MIT license.
   source: https://github.com/stackinspector/ldtstore-homepage
-  commit: 4a4e26b
+  commit: 63ad3ed
   codegen system (MPL license):
   source: https://github.com/stackinspector/ldtstore-codegen
   commit: f50cebf
